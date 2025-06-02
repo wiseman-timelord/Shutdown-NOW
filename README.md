@@ -12,13 +12,13 @@ Its a forced shutdown batch, everyone should have one on their windows desktop. 
 
 ### Media
 ```
-====================================================================================================
-              *** SYSTEM SHUTDOWN ***
-====================================================================================================
+========================================================================================================================
+                                               *** SYSTEM SHUTDOWN ***
+========================================================================================================================
 
    Method: Forced Immediate Shutdown
    Reason: Shutdown Batch Was Executed.
-   Time:  1:41:48.11 on 02/06/2025
+   Time:  1:45:18.68 on 02/06/2025
 
 Executing Command...
 ...Command Executed.
@@ -27,6 +27,7 @@ Executing Command...
 2) After 10 Min, terminate fishy processes.
 
 Exiting In 5 Seconds...
+
 
 
 
