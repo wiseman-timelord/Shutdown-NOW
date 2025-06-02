@@ -1,4 +1,4 @@
-# Shutdown-NOW-
+# Shutdown NOW!
 Status: Beta (working, but new)
 
 ### Description
