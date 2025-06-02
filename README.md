@@ -7,6 +7,7 @@ Its a forced shutdown batch, everyone should have one on their windows desktop. 
 - StartMenu/TaskManager is missing/wontLoad but icons are on desktop.
 - Major graphics issues, where the startMenu/PartOfDisplay is obscured.
 - You may prefer to just click on a batch to shutdown.
+- You dont want to, open a console and type "Shutdown /?", to remember how to make the timer NOW.
 
 ## Reqirements
 - Windows OS.
