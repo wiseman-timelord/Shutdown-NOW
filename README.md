@@ -10,6 +10,30 @@ Its a forced shutdown batch, everyone should have one on their windows desktop. 
 - You dont want to, open a console and type "Shutdown /?", to remember how to make the timer NOW.
 - It saves making a batch for the process, and is done well enough.
 
+### Media
+```
+====================================================================================================
+              *** SYSTEM SHUTDOWN ***
+====================================================================================================
+
+   Method: Forced Immediate Shutdown
+   Reason: Shutdown Batch Was Executed.
+   Time:  1:41:48.11 on 02/06/2025
+
+Executing Command...
+...Command Executed.
+
+1) Wait Up To 10 Mins For Shutdown.
+2) After 10 Min, terminate fishy processes.
+
+Exiting In 5 Seconds...
+
+
+
+
+
+```
+
 ## Reqirements
 - Windows OS.
 
